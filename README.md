@@ -8,4 +8,4 @@ This repository contains 3 tasks from CodSoft Level 1. Each task demonstrates ba
 ## Live Demo
 1. Task 1 : []
 2. Task 2 : []
-3. Task 3 : []
+3. Task 3 : [https://mansi-calculator.netlify.app/]
