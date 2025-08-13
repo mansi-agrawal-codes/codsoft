@@ -5,4 +5,4 @@ Features include addition, subtraction, multiplication, division, and clear/rese
 The design is mobile friendly and visually appealing.
 
 ## Live Demo
-[Click here](https://)
+[Click here](https://mansi-calculator.netlify.app/)
